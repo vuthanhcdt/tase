@@ -128,4 +128,5 @@ gz service -s /gui/follow/offset --reqtype gz.msgs.Vector3d  --reptype gz.msgs.B
 - [X] Smooth MPPI with CBF
 - [ ] Human-Tracking Gimbal
 - [ ] VLM-Based Target Human Re-Identification
+- [ ] LLM Conversation
 - [ ] Experiment
